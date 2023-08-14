@@ -1,4 +1,3 @@
-# MechaSprig.github.io
 <!DOCTYPE html>
 <html>
 <body>
